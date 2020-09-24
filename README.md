@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... The Modern React Bootcamp (Hooks, Context, NextJS, Router)
-- 🌱 I’m currently learning ... React.js
+- 🔭 I’m currently working on ... Mastering Next.js (Lee Robinson)
+- 🌱 I’m currently learning ... Next.js
 - 👯 I’m looking to collaborate on ... anything web based 
 - 🤔 I’m looking for help with ... Node.js
 - 💬 Ask me about ... Anything
