@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Mastering Next.js by Lee Robinson
-- 🌱 I’m currently learning ... Next.js
+- 🔭 I’m currently working on ... React Native - The Practical Guide 2020 Edition course by Maximilian Schwarzmüller
+- 🌱 I’m currently learning ... React Native
 - 👯 I’m looking to collaborate on ... anything web based 
 - 🤔 I’m looking for help with ... Node.js
 - 💬 Ask me about ... Anything
