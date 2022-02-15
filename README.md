@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... anything web based 
 - 🤔 I’m looking for help with ... Node.js
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/paulblackwelldev/)
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/paulblackwellio/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: I am half French 
 
